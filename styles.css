@@ -1,0 +1,26 @@
+
+#name {
+    color: green;
+    text-align: center;
+}
+
+#edu {
+    display: contents;
+}
+
+#img {
+    float: right
+}
+
+@media screen and (max-width: 480px) {
+body {
+    background-color: blue;
+}
+}
+
+.skill-flex > li {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 16px;
+}
